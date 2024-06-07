@@ -26,6 +26,9 @@ body {
 }
 .item p {
     display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
 }
 h1, h2 {
     font-family: Impac, serif;
@@ -45,3 +48,8 @@ hr {
     background-color: brown;
     border-color: brown;
 }
+.bottom-line {
+    margin-top: 25px;
+
+}
+/*FOOTER*/
