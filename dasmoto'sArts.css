@@ -72,3 +72,36 @@ p {
     color: blue;
 
 }
+
+.paint {
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.paint-description {
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    font-family: Helvetica;
+
+
+
+}
+
+.paint-p {
+    color: black;
+    text-align: left;
+
+
+}
+
+.paint-price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+
+
+}
